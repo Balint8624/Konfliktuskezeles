@@ -17,9 +17,9 @@ main {
 }
 
 section {
-background-color: lightgray;
-padding: 30px;
-margin-bottom: 40px;
+    background-color: lightgray;
+    padding: 30px;
+    margin-bottom: 40px;
 }
 
 h2 {
